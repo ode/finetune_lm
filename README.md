@@ -9,7 +9,7 @@ Get the cora dataset from [https://github.com/XiaoxinHe/TAPE](https://github.com
 
 ### Bugfix
 
-Replace `[conda path]/envs/[env name]/lib/python3.9/site-packages/transformers/models/deberta/modeling_deberta.py` with the `modeling_deberta.py` file in this repo. See [https://github.com/huggingface/transformers/pull/35336](this PR) for more details
+Replace `[conda path]/envs/[env name]/lib/python3.9/site-packages/transformers/models/deberta/modeling_deberta.py` with the `modeling_deberta.py` file in this repo. See [https://github.com/huggingface/transformers/pull/35336] (this PR) for more details
 
 ## Run
 
